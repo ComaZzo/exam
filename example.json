@@ -1,0 +1,20 @@
+{"2345":
+  {
+    "smth": {
+      "date": 949614752,
+      "dictslist": [
+        {"id": 123, "value": 1950},
+        {"id": 124, "value": 1951},
+        {"id": 125, "value": 1952},
+        {"id": 126, "value": 1953}
+      ]
+    },
+    "another_smth": {
+      "value": 1,
+      "date": 2,
+      "validation": 3,
+      "item_id": 4,
+      "user_id": 5
+    }
+  }
+}
